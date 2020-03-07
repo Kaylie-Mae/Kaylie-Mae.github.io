@@ -1,0 +1,39 @@
+body {
+      background-color:#AF19A8;
+     
+}
+
+h1 {
+    background-color:pink;
+    border:2px dashed purple;
+}
+
+h2,h3 {
+    color:purple;
+    background-color:#FF69B4;
+    border:2px solid white;
+}
+
+P{
+  color:black;
+  background-color:#EA00E0;
+  border:2px double pink;
+  text-transform:capitalize;
+  
+}
+
+li {
+    color:#FFFFF0;
+   
+}
+
+img {
+    display:block;
+    margin:0 auto;
+    border:2px solid white;
+}
+
+
+
+
+
